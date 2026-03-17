@@ -4,8 +4,9 @@ This repository contains my implementations of fundamental Data Structures and A
 
 ## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
+  </a>
+    <img src="https://skillicons.dev/icons?i=c" alt="C" height="40" />
+  </a>
 ## 🚀 Key Learning Concepts
 - **Memory Management**: Using `malloc`, `realloc`, and `free` for dynamic allocation.
 - **Algorithm Analysis**: Visualizing how execution time scales with input size.
