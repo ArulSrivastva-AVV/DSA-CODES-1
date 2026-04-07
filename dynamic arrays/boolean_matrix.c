@@ -1,5 +1,4 @@
-//ch.sc.u4aie25003
-//Y's and 0's matrix
+//replacing numbers into Y's and 0's matrix
 #include <stdio.h>
 
 int main() {
