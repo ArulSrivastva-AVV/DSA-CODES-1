@@ -1,6 +1,4 @@
-
-//ch.sc.u4aie25003
-//Array-9: matrix modify
+//matrix modification
 #include <stdio.h>
 
 int main() {
